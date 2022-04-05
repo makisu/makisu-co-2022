@@ -13,9 +13,10 @@ echo "makisu.co" > CNAME
 
 git init
 git add -A
-git commit -m 'Deploy'
+git checkout -b gh-pages
+git commit -m 'Deploy' --no-verify
 
 # update the below line with your repository and preferred branches
-git push -f git@github.com:makisu/makisu-co-2022.git master:gh-pages
+git push -f git@github.com:makisu/makisu-co-2022.git gh-pages
 
 cd -
