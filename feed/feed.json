@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "makisu.co",
+  "home_page_url": "https://makisu.co",
+  "feed_url": "https://makisu.co/feed/feed.json",
+  "description": "makisu software consulting services",
+  "author": {
+    "name": "Xavi Ablaza",
+    "url": "https://makisu.co"
+  },
+  "items": [{
+      "id": "https://makisu.co/post/the-end-of-marti.so/",
+      "url": "https://makisu.co/post/the-end-of-marti.so/",
+      "title": "The End of Marti.so",
+      "content_html": "<p>2 years ago, I embarked on a journey to make job searching easier in the US, as a new grad. It pivoted a couple of times to a productized service agency, making $6K MRR but slowly dipping back down to $1K MRR as the team grew.</p>\n<p>This was bad for cashflow on all ends, as I was working a day job in the US and couldn’t dedicate my time to fighting for every dollar – it just wasn’t in my personality.</p>\n<p>We’re proud of the work we’ve done as agents, connecting US startup founders to team members in the Philippines willing to work on short-term contracts. It was a win-win situation, as founders were able to find team members at lower-than-market rates, and freelancers were able to find contracts at higher-than-market rates, while we made money through the connection.</p>\n<p>To our founders, friends, and freelancers- thank you. It’s been an honor to work with you all. But today, it’s time to move onwards and upwards. We’ve taken a lot of our HR learnings and insights to build <a href=\"https://hostari.com\">Hostari</a>.</p>\n",
+      "date_published": "2022-03-14T00:00:00Z"
+    }
+  ]
+}
