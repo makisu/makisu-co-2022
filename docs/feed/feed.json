@@ -1,0 +1,13 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "makisu.co",
+  "home_page_url": "https://makisu.co",
+  "feed_url": "https://makisu.co/feed/feed.json",
+  "description": "saas product studio",
+  "author": {
+    "name": "Xavi Ablaza",
+    "url": "https://makisu.co"
+  },
+  "items": [
+  ]
+}

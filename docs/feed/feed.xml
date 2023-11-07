@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>makisu.co</title>
+	<subtitle>saas product studio</subtitle>
+	
+	<link href="https://makisu.co/feed/feed.xml" rel="self"/>
+	<link href="https://makisu.co"/>
+	<updated>2023-11-07T03:47:19Z</updated>
+	<id>https://makisu.co/</id>
+	<author> 
+		<name>Xavi Ablaza</name>
+	</author>
+</feed>
