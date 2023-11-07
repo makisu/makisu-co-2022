@@ -16,6 +16,7 @@ git add -A
 git commit -m 'Deploy'
 
 # update the below line with your repository and preferred branches
-git push -f git@github.com:makisu/makisu-co-2022.git master:gh-pages
+git remote add origin git@github.com:makisu/makisu-co-2022.git
+git push -f origin gh-pages
 
 cd -
